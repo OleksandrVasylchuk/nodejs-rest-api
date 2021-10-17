@@ -12,4 +12,3 @@ module.exports = {
     "comma-dangle": "off",
     "space-before-function-paren": "off",
   },
-};
